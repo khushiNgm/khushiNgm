@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hello World! 👋
 
-Hi, I'm Khushi Nigam, a 2025 BCA graduate with a strong passion for technology and cloud computing. </br> I’m currently focused on Cloud and DevOps, learning to design scalable, automated, and reliable systems that support modern applications.
+Hi, I'm Khushi Nigam, 2025 BCA graduate with a strong passion for technology and cloud computing. </br> I’m currently focused on Cloud and DevOps, learning to design scalable, automated, and reliable systems that support modern applications.
 
 ### What I'm Excited About:
 
