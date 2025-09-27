@@ -20,8 +20,9 @@ I'm Khushi Nigam, A Curious person with a passion for exploring the vast world o
 
 ### What I'm Excited About:
 
-🚀 Now, I'm delving into the backend realm to complete the full-stack puzzle. </br>
-🌐 Always eager to discover and master new technologies that power the web.</br>
+🚀 Building and deploying applications using AWS, Docker, Kubernetes, and CI/CD pipelines. </br>
+🌐 Automating infrastructure and workflows using tools like Terraform, Ansible, and Jenkins.</br>
+💡 Continuously learning to integrate cloud-native solutions, monitoring, and scalable architectures.</br>
 
 
 ## 🌐 Socials:
