@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 Hi, I'm Khushi Nigam, 2025 BCA graduate with a strong passion for technology and cloud computing. </br> I’m currently focused on Cloud and DevOps, learning to design scalable, automated, and reliable systems that support modern applications.
 
-### What I'm Excited About:
-
-🚀 Building and deploying applications using AWS, Docker, Kubernetes, and CI/CD pipelines. </br>
-🌐 Automating infrastructure and workflows using tools like Terraform, Ansible, and Jenkins.</br>
-💡 Continuously learning to integrate cloud-native solutions, monitoring, and scalable architectures.</br>
+## 👩‍💻 About Me
+- 🎓 BCA 2025 Graduate | Aspiring Cloud & DevOps Engineer  
+- ☁️ Skilled in AWS, Docker, Kubernetes, Terraform, CI/CD Pipelines  
+- 📌 Strong foundation in Linux, Shell scripting, and version control with Git/GitHub  
+- 🌱 Currently enhancing my skills through the #90DaysOfDevOps challenge  
 
 
 ## 🌐 Connect with me :
