@@ -24,9 +24,7 @@ I’m currently focused on **Cloud and DevOps**, learning to design scalable, au
 
 
 ## 🌐 Connect with me :
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/khushi-nigam-635763272/) [![x.com](https://img.shields.io/badge/x.com-%23000000.svg?logo=x.com&logoColor=white)](https://x.com/khushi_nigam04) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:nigamkhushi731@gmail.com)
-<br/>
-![Profile Views](https://komarev.com/ghpvc/?username=khushiNgm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/khushi-nigam-635763272/) [![x.com](https://img.shields.io/badge/x.com-%23000000.svg?logo=x.com&logoColor=white)](https://x.com/khushi_nigam04) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:nigamkhushi731@gmail.com) ![Profile Views](https://komarev.com/ghpvc/?username=khushiNgm)
 
 # 🛠️ DevOps & Cloud Tech Stack:
 
