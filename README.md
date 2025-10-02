@@ -56,5 +56,6 @@ I’m currently focused on **Cloud and DevOps**, learning to design scalable, au
 ## 📈 Activity Graph
 [![Khushi’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=khushiNgm&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+## 👀 Profile Visitors
+![Visitor Count](https://komarev.com/ghpvc/?username=khushiNgm&color=blue&style=flat-square)
+
