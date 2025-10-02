@@ -38,8 +38,8 @@ Hi, I'm Khushi Nigam, 2025 BCA graduate with a strong passion for technology and
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=khushiNgm&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
 
-## 📈 Contribution Graph
-[![Khushi’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=khushiNgm&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 🐍 Contribution Graph
+![GitHub Contribution Snake](https://github.com/khushiNgm/khushiNgm/blob/output/github-contribution-grid-snake.svg)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
