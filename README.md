@@ -45,6 +45,10 @@ I’m currently focused on **Cloud and DevOps**, learning to design scalable, au
 
 ### 🖥️ Operating Systems  
 ![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)  
+## 📝 Blogs & Articles
+I also write about **Cloud, DevOps, and Programming** on Medium. Check out my posts here:  
+
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nigamkhushi731)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=khushiNgm&theme=midnight-purple&hide_border=false)<br/>
