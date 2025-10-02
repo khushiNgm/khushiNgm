@@ -26,6 +26,10 @@ I’m currently focused on **Cloud and DevOps**, learning to design scalable, au
 ## 🌐 Connect with me :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/khushi-nigam-635763272/) [![x.com](https://img.shields.io/badge/x.com-%23000000.svg?logo=x.com&logoColor=white)](https://x.com/khushi_nigam04) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:nigamkhushi731@gmail.com)
 
+## 📝 Blogs & Articles
+I also write about **Cloud, DevOps, and Programming** on Medium. Check out my posts here:  
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nigamkhushi731)
+
 # 🛠️ DevOps & Cloud Tech Stack:
 
 ### 🚀 DevOps Tools  
@@ -44,11 +48,7 @@ I’m currently focused on **Cloud and DevOps**, learning to design scalable, au
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)  
 
 ### 🖥️ Operating Systems  
-![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)  
-## 📝 Blogs & Articles
-I also write about **Cloud, DevOps, and Programming** on Medium. Check out my posts here:  
-
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nigamkhushi731)
+![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=khushiNgm&theme=midnight-purple&hide_border=false)<br/>
