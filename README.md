@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👩‍💻 About Me
+## 👩‍💻 About Me 👉
 
 Hi, I'm **Khushi Nigam**, a 2025 BCA graduate with a strong passion for technology and cloud computing.  
 I’m currently focused on **Cloud and DevOps**, learning to design scalable, automated, and reliable systems that support modern applications.  
