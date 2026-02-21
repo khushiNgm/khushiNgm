@@ -19,7 +19,7 @@ Hi, I'm **Khushi Nigam**, a 2025 BCA graduate with a strong passion for technolo
 I’m currently focused on **Cloud and DevOps**, learning to design scalable, automated, and reliable systems that support modern applications.  
 
 - ☁️ Skilled in AWS, Docker, Kubernetes, Terraform, CI/CD Pipelines  
-- 📌 Strong foundation in Linux, Shell scripting, and version control with Git/GitHub  
+- 📌 Basic knowledge of Linux, shell scripting, and version control (Git/GitHub).
 - 🌱 Currently enhancing my skills through the #90DaysOfDevOps challenge  
 
 
